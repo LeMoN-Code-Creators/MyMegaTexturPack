@@ -1,0 +1,21 @@
+{
+  "comment": "Designed by Optimus0812 with Cubik Studio - https://cubik.studio",
+  "createdWith": "Cubik Studio 2.9.480 Beta",
+  "textureSize": [64,64],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "boxes": [
+        {
+          "coordinates": [-1.0,-0.001,0.0,1.0,0.001,0.001],
+          "uvDown": [64,36,65,37],
+          "uvUp": [64,33,65,34],
+          "uvNorth": [64,36,65,37],
+          "uvSouth": [64,36,65,37],
+          "uvWest": [64,36,65,37],
+          "uvEast": [64,36,65,37]
+        }
+      ]
+    }
+  ]
+}

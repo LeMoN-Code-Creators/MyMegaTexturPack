@@ -1,0 +1,21 @@
+{
+  "comment": "Model by optimus0812",
+  "shadowSize": "1",
+  "models": 
+  [
+	{
+      "model": "backpack.jpm",
+      "part": "base", 
+      "attach": false,
+      "translate": [0, -8, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "none.jpm",
+      "part": "lid", 
+      "attach": false,
+      "translate": [0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}
