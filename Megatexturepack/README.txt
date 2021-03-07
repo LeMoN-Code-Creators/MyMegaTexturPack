@@ -15,7 +15,7 @@ Texturepacks that were used:
 
 5. The textures of the armor, shield and batons of the FSI from SP Role Play(https://docs.google.com/document/d/1bzGvJ8mP3JnnD-N5G5kfkeC56NZ8s6MvsdIOfpdX4ag/edit)
 
-6. Texturepack by Costorico
+6. Texturepack by Costorico / Will be added soon /
 
 All txt files of these texturepacks will be attached in a separate folder. Thanks everyone
 
@@ -37,6 +37,6 @@ Amazing 3D Shulker Backpack! [Optifine](https://www.planetminecraft.com/texture-
 
 Текстуры брони, щита и дубинки фсб из SP Role Play(https://docs.google.com/document/d/1bzGvJ8mP3JnnD-N5G5kfkeC56NZ8s6MvsdIOfpdX4ag/edit)
 
-Текстурпак от косторико(Costorico)
+Текстурпак от косторико(Costorico) / Скоро будет добавлен /
 
 Все txt файлы этих текстур паков будут приложены в отдельной папке . Спасибо всем
