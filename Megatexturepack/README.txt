@@ -23,9 +23,10 @@ Texturepacks that were used:
 
 9. Visual Fireworks(https://www.curseforge.com/minecraft/texture-packs/visual-fireworks)
 
+10. KSEPSP(https://www.planetminecraft.com/texture-pack/ksepsp-v7-0/)
+
 Thanks everyone
-
-
+All rights of these texture packs belong to their authors. I just combined their work. I does not use these works for commercial purposes.
 
 
 ru:
@@ -51,4 +52,10 @@ by LeOnCiKpk
 
 9. Visual Fireworks(https://www.curseforge.com/minecraft/texture-packs/visual-fireworks)
 
+10. KSEPSP(https://www.planetminecraft.com/texture-pack/ksepsp-v7-0/)
+
 Спасибо всем
+Все txt файлы этих текстур паков будут приложены в отдельной папке . Спасибо всем
+Все права этих текстур паков пренадлежат их авторам . Я лишь объединил их работы . Автор не использует эти работы в комерческих целях . 
+
+

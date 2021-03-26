@@ -1,0 +1,37 @@
+{
+  "comment": "Designed by JermsyBoy with Cubik Studio - https://cubik.studio",
+  "createdWith": "Cubik Studio 2.9.480 Beta",
+  "textureSize": [64,64],
+  "submodels": [
+    {
+      "id": "e0_Box4",
+      "translate": [2.0,-8.0,-7.0],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-3.0,0.0,4.0,3.0,5.0],
+          "uvDown": [9,30,13,25],
+          "uvUp": [9,30,5,25],
+          "uvNorth": [5,30,9,33],
+          "uvSouth": [14,30,18,33],
+          "uvWest": [9,30,14,33],
+          "uvEast": [0,30,5,33]
+        }
+      ]
+    },
+    {
+      "id": "e1_Box5",
+      "translate": [2.0,-6.0,-6.5],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-2.0,0.0,4.0,2.0,5.0],
+          "uvDown": [9,25,13,30],
+          "uvUp": [5,25,9,30],
+          "uvNorth": [5,33,9,35],
+          "uvSouth": [14,33,18,35],
+          "uvWest": [9,33,14,35],
+          "uvEast": [0,33,5,35]
+        }
+      ]
+    }
+  ]
+}

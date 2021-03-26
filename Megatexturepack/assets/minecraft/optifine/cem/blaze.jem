@@ -1,0 +1,279 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-4, 20, -4, 8, 8, 8], "textureOffset": [0, 44]}
+					]
+				},
+				{
+					"id": "head2",
+					"invertAxis": "xy",
+					"translate": [0, 24, 0],
+					"submodels": [
+						{
+							"id": "head_sub_1",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [-4, -4, -4, 8, 8, 8], "textureOffset": [0, 0]},
+								{"coordinates": [-4, -4, -4, 8, 8, 8], "textureOffset": [24, 18], "sizeAdd": 0.5}
+							]
+						}
+					]
+				},
+				{
+					"id": "mid",
+					"invertAxis": "xy",
+					"translate": [0, 18, 0],
+					"submodels": [
+						{
+							"id": "head_sub_3",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [-2, -22, -2, 4, 22, 4], "textureOffset": [48, 0]}
+							]
+						}
+					]
+				},
+				{
+					"id": "shield1",
+					"invertAxis": "xy",
+					"translate": [0, 18, 0],
+					"submodels": [
+						{
+							"id": "rot1",
+							"invertAxis": "xy",
+							"translate": [7, 0, 0],
+							"rotate": [0, 0, 30],
+							"submodels": [
+								{
+									"id": "head_sub_6",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"mirrorTexture": "u",
+									"boxes": [
+										{"coordinates": [0, -18, -5, 2, 18, 10], "textureOffset": [0, 16]}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "shield2",
+					"invertAxis": "xy",
+					"translate": [0, 18, 0],
+					"rotate": [0, 90, 0],
+					"submodels": [
+						{
+							"id": "rot2",
+							"invertAxis": "xy",
+							"translate": [7, 0, 0],
+							"rotate": [0, 0, 30],
+							"submodels": [
+								{
+									"id": "head_sub_9",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"mirrorTexture": "u",
+									"boxes": [
+										{"coordinates": [0, -18, -5, 2, 18, 10], "textureOffset": [0, 16]}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "shield3",
+					"invertAxis": "xy",
+					"translate": [0, 18, 0],
+					"rotate": [0, -180, 0],
+					"submodels": [
+						{
+							"id": "rot3",
+							"invertAxis": "xy",
+							"translate": [7, 0, 0],
+							"rotate": [0, 0, 30],
+							"submodels": [
+								{
+									"id": "head_sub_12",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"mirrorTexture": "u",
+									"boxes": [
+										{"coordinates": [0, -18, -5, 2, 18, 10], "textureOffset": [0, 16]}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "shield4",
+					"invertAxis": "xy",
+					"translate": [0, 18, 0],
+					"rotate": [0, -90, 0],
+					"submodels": [
+						{
+							"id": "rot4",
+							"invertAxis": "xy",
+							"translate": [7, 0, 0],
+							"rotate": [0, 0, 30],
+							"submodels": [
+								{
+									"id": "head_sub_15",
+									"invertAxis": "xy",
+									"translate": [0, 0, 0],
+									"mirrorTexture": "u",
+									"boxes": [
+										{"coordinates": [0, -18, -5, 2, 18, 10], "textureOffset": [0, 16]}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"part:head2.ty": "(-24 + sin(time / 16))",
+					"part:mid.ry": "(time / 8)*(-1)",
+					"part:shield1.ry": "(time / 8)",
+					"part:shield1.rx": "(sin(time / 8)/8)",
+					"part:shield1.rz": "(sin(time / 8)/8)",
+					"part:shield2.ry": "(1.6 + time / 8)",
+					"part:shield2.rx": "(sin(time / 8)/8)",
+					"part:shield2.rz": "(sin(time / 8)/8)",
+					"part:shield3.ry": "(3.2 + time / 8)",
+					"part:shield3.rx": "(sin(time / 8)/8)",
+					"part:shield3.rz": "(sin(time / 8)/8)",
+					"part:shield4.ry": "(4.8 + time / 8)",
+					"part:shield4.rx": "(sin(time / 8)/8)",
+					"part:shield4.rz": "(sin(time / 8)/8)"
+				}
+			]
+		},
+		{
+			"part": "stick1",
+			"id": "stick1",
+			"invertAxis": "xy",
+			"translate": [-7, -26, 7],
+			"boxes": [
+				{"coordinates": [6, 18, -8, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick2",
+			"id": "stick2",
+			"invertAxis": "xy",
+			"translate": [7, -26, 7],
+			"boxes": [
+				{"coordinates": [-8, 18, -8, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick3",
+			"id": "stick3",
+			"invertAxis": "xy",
+			"translate": [7, -26, -7],
+			"boxes": [
+				{"coordinates": [-8, 18, 6, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick4",
+			"id": "stick4",
+			"invertAxis": "xy",
+			"translate": [-7, -26, -7],
+			"boxes": [
+				{"coordinates": [6, 18, 6, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick5",
+			"id": "stick5",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 5],
+			"boxes": [
+				{"coordinates": [4, 14, -6, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick6",
+			"id": "stick6",
+			"invertAxis": "xy",
+			"translate": [5, -22, 5],
+			"boxes": [
+				{"coordinates": [-6, 14, -6, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick7",
+			"id": "stick7",
+			"invertAxis": "xy",
+			"translate": [5, -22, -5],
+			"boxes": [
+				{"coordinates": [-6, 14, 4, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick8",
+			"id": "stick8",
+			"invertAxis": "xy",
+			"translate": [-5, -22, -5],
+			"boxes": [
+				{"coordinates": [4, 14, 4, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick9",
+			"id": "stick9",
+			"invertAxis": "xy",
+			"translate": [-3, -14, 3],
+			"boxes": [
+				{"coordinates": [2, 6, -4, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick10",
+			"id": "stick10",
+			"invertAxis": "xy",
+			"translate": [3, -14, 3],
+			"boxes": [
+				{"coordinates": [-4, 6, -4, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick11",
+			"id": "stick11",
+			"invertAxis": "xy",
+			"translate": [3, -14, -3],
+			"boxes": [
+				{"coordinates": [-4, 6, 2, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "stick12",
+			"id": "stick12",
+			"invertAxis": "xy",
+			"translate": [-3, -14, -3],
+			"boxes": [
+				{"coordinates": [2, 6, 2, 2, 8, 2], "textureOffset": [0, 16]}
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "comment": "Designed by JermsyBoy with Cubik Studio - https://cubik.studio",
+  "createdWith": "Cubik Studio 2.9.480 Beta",
+  "textureSize": [64,64],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [2.0,-6.0,-6.5],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-2.0,0.0,4.0,2.0,5.0],
+          "uvDown": [9,25,13,30],
+          "uvUp": [26,30,22,25],
+          "uvNorth": [5,33,9,35],
+          "uvSouth": [14,33,18,35],
+          "uvWest": [9,33,14,35],
+          "uvEast": [0,33,5,35]
+        }
+      ]
+    }
+  ]
+}

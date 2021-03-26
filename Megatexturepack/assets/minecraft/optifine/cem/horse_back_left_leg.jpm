@@ -1,0 +1,50 @@
+{
+  "comment": "Designed by JermsyBoy with Cubik Studio - https://cubik.studio",
+  "createdWith": "Cubik Studio 2.9.480 Beta",
+  "textureSize": [64,64],
+  "submodels": [
+    {
+      "id": "e0_Box2",
+      "translate": [1.0,1.0,-2.0],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-2.0,0.0,4.0,2.0,5.0],
+          "uvDown": [0,25,4,30],
+          "uvUp": [0,25,4,30],
+          "uvNorth": [56,25,60,27],
+          "uvSouth": [60,25,64,27],
+          "uvWest": [48,25,53,27],
+          "uvEast": [51,25,56,27]
+        }
+      ]
+    },
+    {
+      "id": "e1_Box3",
+      "translate": [1.0,10.0,-1.5],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-3.0,0.0,4.0,3.0,4.0],
+          "uvDown": [56,21,60,25],
+          "uvUp": [48,21,52,25],
+          "uvNorth": [52,33,56,36],
+          "uvSouth": [60,33,64,36],
+          "uvWest": [56,33,60,36],
+          "uvEast": [48,33,52,36]
+        }
+      ]
+    },
+    {
+      "id": "e2_Box4",
+      "translate": [0.5,7.0,-1.0],
+      "boxes": [
+        {
+          "coordinates": [-3.0,-6.0,0.0,3.0,6.0,3.0],
+          "uvNorth": [56,27,59,33],
+          "uvSouth": [60,27,63,33],
+          "uvWest": [52,27,55,33],
+          "uvEast": [48,27,51,33]
+        }
+      ]
+    }
+  ]
+}

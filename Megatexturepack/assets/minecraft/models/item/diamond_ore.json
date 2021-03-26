@@ -1,0 +1,13 @@
+{
+	"credit": "by FInch_94",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/1"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.5, 1.25],
+			"scale": [0.54, 0.54, 0.54]
+		}
+	}
+}

@@ -1,0 +1,75 @@
+{
+  "models": 
+  [
+    {
+      "model": "horse_front_left_leg.jpm",
+      "part": "front_left_leg",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "horse_head.jpm",
+      "part": "head",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "horse_back_left_leg.jpm",
+      "part": "back_left_leg",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "horse_front_right_leg.jpm",
+      "part": "front_right_leg",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "horse_back_right_leg.jpm",
+      "part": "back_right_leg",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "horse_mouth_top.jpm",
+      "part": "head",
+	  "attach": true,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "horse_mouth_bottom.jpm",
+      "part": "mouth",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "horse_mane.jpm",
+      "part": "mane",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "saddle.jpm",
+      "part": "saddle",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "horse_tail.jpm",
+      "part": "tail",
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}
