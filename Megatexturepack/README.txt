@@ -23,10 +23,9 @@ Texturepacks that were used:
 
 9. Visual Fireworks(https://www.curseforge.com/minecraft/texture-packs/visual-fireworks)
 
-10. KSEPSP(https://www.planetminecraft.com/texture-pack/ksepsp-v7-0/)
-
 Thanks everyone
-All rights of these texture packs belong to their authors. I just combined their work. I does not use these works for commercial purposes.
+
+
 
 
 ru:
@@ -50,12 +49,16 @@ by LeOnCiKpk
 
 8. Shulker Box GUIs(https://www.curseforge.com/minecraft/texture-packs/shulker-box-guis)
 
+<<<<<<< HEAD
 9. Visual Fireworks(https://www.curseforge.com/minecraft/texture-packs/visual-fireworks)
 
-10. KSEPSP(https://www.planetminecraft.com/texture-pack/ksepsp-v7-0/)
-
 Спасибо всем
+=======
+Текстурпак от косторико(Costorico) / Скоро будет добавлен /
+
 Все txt файлы этих текстур паков будут приложены в отдельной папке . Спасибо всем
-Все права этих текстур паков пренадлежат их авторам . Я лишь объединил их работы . Автор не использует эти работы в комерческих целях . 
+>>>>>>> d6d953cba98efc50848384a9a7eff75810bdf67f
+
+Все права этих текстур паков пренадлежат их авторам . Автор лишь объединил их работы . Автор не использует эти работы в комерческих целях . 
 
 
